@@ -29,6 +29,6 @@ Este proyecto es una práctica de **JavaScript DOM** que implementa las siguient
 
 ---
 
-## 📷 Vista previa
+## Vista previa
 ![Vista previa del proyecto](https://github.com/user-attachments/assets/9324f8af-a6fb-4c8f-bc74-e3d33bfa9425)
 
